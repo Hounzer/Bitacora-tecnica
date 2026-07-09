@@ -86,3 +86,14 @@ Dos tipos de usuario con interfaces diferenciadas:
 Al iniciar una conversación nueva con Claude, pega el contenido
 de este archivo como primer mensaje para retomar el contexto exacto.
 Actualizar cada domingo al cerrar la semana.
+
+## Decisiones técnicas tomadas
+- Semana 5: elegimos Prisma sobre Drizzle porque...
+- Semana 6: elegimos JWT sobre sesiones porque...
+
+## Errores cometidos y aprendizajes
+- Semana 1: commit con archivo de prueba incluido → aprendí git reset HEAD~1
+
+## Preguntas abiertas
+- ¿Cómo modelar disponibilidad del técnico?
+- ¿Webpay o Mercado Pago primero?

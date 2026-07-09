@@ -8,7 +8,7 @@ Tener el entorno de desarrollo profesional funcionando y Git operativo.
 |---|---|
 | Lunes | 2 |
 | Martes | 2 |
-| Miércoles | |
+| Miércoles | 1.5 |
 | Jueves | |
 | Viernes | |
 | Sábado | |

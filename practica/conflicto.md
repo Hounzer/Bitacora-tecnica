@@ -1,1 +1,1 @@
-Git es una herramienta de control de versiones
+Git es una herramienta distribuida de control de versiones.

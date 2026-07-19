@@ -11,7 +11,7 @@ Tener el entorno de desarrollo profesional funcionando y Git operativo.
 | Miércoles | 1.5 |
 | Jueves | 1 |
 | Viernes | 2 |
-| Sábado | |
+| Sábado | 6 |
 | Domingo | |
 | **Total** | |
 
@@ -22,7 +22,8 @@ Viernes: Existen permiso por cada archivo, el w: write, r: read y x: executable 
 ## Qué no entiendo todavía
 (Martes: Aun no entiendo bien lo que tuve que hacer al principio respecto al SSH y al proceso de pull request y merge request en github, por lo que tengo que aprender mas acerca de eso y de como funciona un sistema general.
 Jueves: También me falta aprender acerca de three-way-merge y rebase
-Viernes: Aun me falta aprender más de acerca de conectar comandos usando <, << y |, tambíen me falta aprender más conceptos de la terminal, bash y kernel que aun no distingo bien y mucho menos acerca del bin como tal.)
+Viernes: Aun me falta aprender más de acerca de conectar comandos usando <, << y |, tambíen me falta aprender más conceptos de la terminal, bash y kernel que aun no distingo bien y mucho menos acerca del bin como tal.
+Sabado: Aun me falta entender bien como hacer codigo con lenguaje de bash, o con sintaxis de la misma. tengo que aprender mas de como usar el chmod u+x o los distintas modificaciones que quiera hacer)
 
 
 

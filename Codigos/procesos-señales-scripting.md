@@ -6,12 +6,17 @@
 - `echo $$` — muestra el PID de mi bash actual
 - `pgrep -a nombre` — busca un proceso por nombre y muestra su PID
   - Ej: `pgrep -a sleep`
+-  `ps / ps -f` → "muéstrame la foto de los procesos de esta terminal" (lo que usaste para ver el árbol padre-hijo).
+- `pgrep -a` <nombre> → "búscame el PID de un proceso por su nombre, esté donde esté".
 
 ## Matar / controlar procesos
 - `Ctrl+C` — interrumpe el proceso en primer plano (SIGINT)
 - `kill PID` — le pide terminar con gracia (SIGTERM)
 - `kill -9 PID` — lo mata sí o sí, último recurso (SIGKILL)
 - `Ctrl+Z` — lo pausa sin matarlo (SIGTSTP)
+
+## Salir de un proceso
+- `exit` o `control+D` — se sale de un bash hijo
 
 ## Segundo plano
 - `comando &` — lo lanza en segundo plano y me devuelve el prompt

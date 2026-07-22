@@ -12,7 +12,7 @@ Tener el entorno de desarrollo profesional funcionando y Git operativo.
 | Jueves | 1 |
 | Viernes | 2 |
 | Sábado | 6 |
-| Domingo | 1 |
+| Domingo | 2 |
 | **Total** | |
 
 ## Qué entendí bien

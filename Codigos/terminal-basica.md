@@ -56,3 +56,11 @@
 ## Ayuda
 - `man comando` — el manual completo (q para salir, / para buscar)
 - `comando --help` — resumen rápido de opciones
+
+## Procesos
+- `fg %1` — trae el proceso 1 de bg a foreground 
+- `Control + Z` — Suspende el proceso en foreground (SIGINT)
+- `jobs` — Lista los jobs de esta terminal
+- `bg` — manda a background un job suspendido
+- `fg` — trae un job devuelta a foreground
+- `nohup` — lanza un comando que ignora el hangup, es decir, sobrevive al cerrado de la terminal donde se ejecuto.
